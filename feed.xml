@@ -3,7 +3,7 @@
     <title>Dulcie Norma Hoffmann</title>
     <link href="https://dulcie.hoffmann.co.nz/feed.xml" rel="self" />
     <link href="https://dulcie.hoffmann.co.nz" />
-    <updated>2022-03-20T13:54:14+13:00</updated>
+    <updated>2022-03-20T14:04:35+13:00</updated>
     <author>
         <name>Chris Hoffmann</name>
     </author>
@@ -63,16 +63,22 @@
         <link href="https://dulcie.hoffmann.co.nz/main-page.html"/>
         <id>https://dulcie.hoffmann.co.nz/main-page.html</id>
 
-        <updated>2022-03-20T13:47:52+13:00</updated>
+        <updated>2022-03-20T14:04:35+13:00</updated>
             <summary>
                 <![CDATA[
-                    Click here to register for the live stream Click here for memorial service details
+                    In loving memory of Dulcie Norma Hoffmann 7th January 1941 - 9th September 2011 Click here to register for the live stream Click here for memorial service details To make contact the family please email vicki@vatl.nz
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://dulcie.hoffmann.co.nz/live-stream.html">Click here to register for the live stream</a></p>
+                <h3>In loving memory of Dulcie Norma Hoffmann</h3>
+<p><em>7th January 1941 - 9th September 2011</em></p>
+<p> </p>
+<p><a href="https://dulcie.hoffmann.co.nz/live-stream.html">Click here to register for the live stream</a></p>
 <p><a href="https://dulcie.hoffmann.co.nz/memorial-service.html">Click here for memorial service details</a></p>
+<p> </p>
+<p>To make contact the family please email <a href="mailto:vicki@vatl.nz">vicki@vatl.nz</a> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
