@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Dulcie Norma Hoffmann</title>
+    <link href="https://dulcie.hoffmann.co.nz/feed.xml" rel="self" />
+    <link href="https://dulcie.hoffmann.co.nz" />
+    <updated>2022-03-20T13:47:52+13:00</updated>
+    <author>
+        <name>Chris Hoffmann</name>
+    </author>
+    <id>https://dulcie.hoffmann.co.nz</id>
+
+    <entry>
+        <title>Memorial Service</title>
+        <author>
+            <name>Chris Hoffmann</name>
+        </author>
+        <link href="https://dulcie.hoffmann.co.nz/memorial-service.html"/>
+        <id>https://dulcie.hoffmann.co.nz/memorial-service.html</id>
+
+        <updated>2022-03-20T13:46:41+13:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Live Stream</title>
+        <author>
+            <name>Chris Hoffmann</name>
+        </author>
+        <link href="https://dulcie.hoffmann.co.nz/live-stream.html"/>
+        <id>https://dulcie.hoffmann.co.nz/live-stream.html</id>
+
+        <updated>2022-03-20T13:40:12+13:00</updated>
+            <summary>
+                <![CDATA[
+                    Complete the form below to be sent the details for the live stream closer to the day of the service.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Complete the form below to be sent the details for the live stream closer to the day of the service. </p>
+<div class="post__iframe"><iframe loading="lazy" width="640px" height="1196px" frameborder="0" scrolling="no" src="https://forms.office.com/Pages/ResponsePage.aspx?id=gHYowCDz4kGImIkauVwBGgWe55SWyhBEnnNLLFs4Y-5URFY3SVZQVlFWSFVZQVNaNEVaT1NDTEVLQi4u&amp;embed=true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen=""> </iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Dulcie</title>
+        <author>
+            <name>Chris Hoffmann</name>
+        </author>
+        <link href="https://dulcie.hoffmann.co.nz/main-page.html"/>
+        <id>https://dulcie.hoffmann.co.nz/main-page.html</id>
+
+        <updated>2022-03-20T13:47:52+13:00</updated>
+            <summary>
+                <![CDATA[
+                    Click here to register for the live stream Click here for memorial service details
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://dulcie.hoffmann.co.nz/live-stream.html">Click here to register for the live stream</a></p>
+<p><a href="https://dulcie.hoffmann.co.nz/memorial-service.html">Click here for memorial service details</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
