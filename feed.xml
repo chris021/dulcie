@@ -3,7 +3,7 @@
     <title>Dulcie Norma Hoffmann</title>
     <link href="https://dulcie.hoffmann.co.nz/feed.xml" rel="self" />
     <link href="https://dulcie.hoffmann.co.nz" />
-    <updated>2022-03-25T13:44:02+13:00</updated>
+    <updated>2022-03-25T13:45:19+13:00</updated>
     <author>
         <name>Chris Hoffmann</name>
     </author>
@@ -62,16 +62,17 @@
         <link href="https://dulcie.hoffmann.co.nz/live-stream.html"/>
         <id>https://dulcie.hoffmann.co.nz/live-stream.html</id>
 
-        <updated>2022-03-25T13:43:02+13:00</updated>
+        <updated>2022-03-25T13:45:19+13:00</updated>
             <summary>
                 <![CDATA[
-                    The service is being live streamed on YouTube. Click here to watch the live stream
+                    The service is being live streamed on YouTube. Click here to watch the live stream Click here to download the Order of Service PDF
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>The service is being live streamed on YouTube.</p>
 <p><a href="https://youtu.be/yFw-fWAvFhY" target="_blank" rel="noopener noreferrer">Click here to watch the live stream</a></p>
+<p>Click here to download the Order of Service PDF</p>
 <p> </p>
             ]]>
         </content>
