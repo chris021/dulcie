@@ -3,7 +3,7 @@
     <title>Dulcie Norma Hoffmann</title>
     <link href="https://dulcie.hoffmann.co.nz/feed.xml" rel="self" />
     <link href="https://dulcie.hoffmann.co.nz" />
-    <updated>2022-03-24T13:47:23+13:00</updated>
+    <updated>2022-03-25T13:44:02+13:00</updated>
     <author>
         <name>Chris Hoffmann</name>
     </author>
@@ -17,15 +17,15 @@
         <link href="https://dulcie.hoffmann.co.nz/photos.html"/>
         <id>https://dulcie.hoffmann.co.nz/photos.html</id>
 
-        <updated>2022-03-24T13:46:20+13:00</updated>
+        <updated>2022-03-25T13:44:02+13:00</updated>
             <summary>
                 <![CDATA[
-                    Adobe Photo Library
+                    Click here to open the Photo Library
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://adobe.ly/3iznZox">Adobe Photo Library</a></p>
+                <p><a href="https://adobe.ly/3iznZox">Click here to open the Photo Library</a></p>
             ]]>
         </content>
     </entry>
@@ -62,16 +62,17 @@
         <link href="https://dulcie.hoffmann.co.nz/live-stream.html"/>
         <id>https://dulcie.hoffmann.co.nz/live-stream.html</id>
 
-        <updated>2022-03-20T13:40:12+13:00</updated>
+        <updated>2022-03-25T13:43:02+13:00</updated>
             <summary>
                 <![CDATA[
-                    Complete the form below to be sent the details for the live stream closer to the day of the service.
+                    The service is being live streamed on YouTube. Click here to watch the live stream
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Complete the form below to be sent the details for the live stream closer to the day of the service. </p>
-<div class="post__iframe"><iframe loading="lazy" width="640px" height="1196px" frameborder="0" scrolling="no" src="https://forms.office.com/Pages/ResponsePage.aspx?id=gHYowCDz4kGImIkauVwBGgWe55SWyhBEnnNLLFs4Y-5URFY3SVZQVlFWSFVZQVNaNEVaT1NDTEVLQi4u&amp;embed=true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen=""> </iframe></div>
+                <p>The service is being live streamed on YouTube.</p>
+<p><a href="https://youtu.be/yFw-fWAvFhY" target="_blank" rel="noopener noreferrer">Click here to watch the live stream</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -83,10 +84,10 @@
         <link href="https://dulcie.hoffmann.co.nz/main-page.html"/>
         <id>https://dulcie.hoffmann.co.nz/main-page.html</id>
 
-        <updated>2022-03-24T13:47:23+13:00</updated>
+        <updated>2022-03-25T13:43:42+13:00</updated>
             <summary>
                 <![CDATA[
-                    In loving memory of Dulcie Norma Hoffmann 7th January 1941 - 9th September 2011 Click here to register for the live stream Click here for memorial service details Click here for photos To make contact the family please email vicki@vatl.nz
+                    In loving memory of Dulcie Norma Hoffmann 7th January 1941 - 9th September 2011 Click here to watch the live stream Click here for memorial service details Click here for photos To make contact the family please email vicki@vatl.nz
                 ]]>
             </summary>
         <content type="html">
@@ -94,7 +95,7 @@
                 <h3>In loving memory of Dulcie Norma Hoffmann</h3>
 <p><em>7th January 1941 - 9th September 2011</em></p>
 <p> </p>
-<p><a href="https://dulcie.hoffmann.co.nz/live-stream.html">Click here to register for the live stream</a></p>
+<p><a href="https://dulcie.hoffmann.co.nz/live-stream.html">Click here to watch the live stream</a></p>
 <p><a href="https://dulcie.hoffmann.co.nz/memorial-service.html">Click here for memorial service details</a></p>
 <p><a href="https://dulcie.hoffmann.co.nz/photos.html">Click here for photos</a></p>
 <p> </p>

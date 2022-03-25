@@ -13,15 +13,15 @@
             "id": "https://dulcie.hoffmann.co.nz/photos.html",
             "url": "https://dulcie.hoffmann.co.nz/photos.html",
             "title": "Photos",
-            "summary": "Adobe Photo Library",
-            "content_html": "<p><a href=\"https://adobe.ly/3iznZox\">Adobe Photo Library</a></p>",
+            "summary": "Click here to open the Photo Library",
+            "content_html": "<p><a href=\"https://adobe.ly/3iznZox\">Click here to open the Photo Library</a></p>",
             "author": {
                 "name": "Chris Hoffmann"
             },
             "tags": [
             ],
             "date_published": "2022-03-24T13:46:20+13:00",
-            "date_modified": "2022-03-24T13:46:20+13:00"
+            "date_modified": "2022-03-25T13:44:02+13:00"
         },
         {
             "id": "https://dulcie.hoffmann.co.nz/memorial-service.html",
@@ -42,29 +42,29 @@
             "id": "https://dulcie.hoffmann.co.nz/live-stream.html",
             "url": "https://dulcie.hoffmann.co.nz/live-stream.html",
             "title": "Live Stream",
-            "summary": "Complete the form below to be sent the details for the live stream closer to the day of the service.",
-            "content_html": "<p>Complete the form below to be sent the details for the live stream closer to the day of the service. </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640px\" height=\"1196px\" frameborder=\"0\" scrolling=\"no\" src=\"https://forms.office.com/Pages/ResponsePage.aspx?id=gHYowCDz4kGImIkauVwBGgWe55SWyhBEnnNLLFs4Y-5URFY3SVZQVlFWSFVZQVNaNEVaT1NDTEVLQi4u&amp;embed=true\" allowfullscreen=\"allowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" msallowfullscreen=\"\"> </iframe></div>",
+            "summary": "The service is being live streamed on YouTube. Click here to watch the live stream",
+            "content_html": "<p>The service is being live streamed on YouTube.</p>\n<p><a href=\"https://youtu.be/yFw-fWAvFhY\" target=\"_blank\" rel=\"noopener noreferrer\">Click here to watch the live stream</a></p>\n<p> </p>",
             "author": {
                 "name": "Chris Hoffmann"
             },
             "tags": [
             ],
             "date_published": "2022-03-20T13:28:29+13:00",
-            "date_modified": "2022-03-20T13:40:12+13:00"
+            "date_modified": "2022-03-25T13:43:02+13:00"
         },
         {
             "id": "https://dulcie.hoffmann.co.nz/main-page.html",
             "url": "https://dulcie.hoffmann.co.nz/main-page.html",
             "title": "Dulcie",
-            "summary": "In loving memory of Dulcie Norma Hoffmann 7th January 1941 - 9th September 2011 Click here to register for the live stream Click here for memorial service details Click here for photos To make contact the family please email vicki@vatl.nz",
-            "content_html": "<h3>In loving memory of Dulcie Norma Hoffmann</h3>\n<p><em>7th January 1941 - 9th September 2011</em></p>\n<p> </p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/live-stream.html\">Click here to register for the live stream</a></p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/memorial-service.html\">Click here for memorial service details</a></p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/photos.html\">Click here for photos</a></p>\n<p> </p>\n<p>To make contact the family please email <a href=\"mailto:vicki@vatl.nz\">vicki@vatl.nz</a> </p>\n<p> </p>",
+            "summary": "In loving memory of Dulcie Norma Hoffmann 7th January 1941 - 9th September 2011 Click here to watch the live stream Click here for memorial service details Click here for photos To make contact the family please email vicki@vatl.nz",
+            "content_html": "<h3>In loving memory of Dulcie Norma Hoffmann</h3>\n<p><em>7th January 1941 - 9th September 2011</em></p>\n<p> </p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/live-stream.html\">Click here to watch the live stream</a></p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/memorial-service.html\">Click here for memorial service details</a></p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/photos.html\">Click here for photos</a></p>\n<p> </p>\n<p>To make contact the family please email <a href=\"mailto:vicki@vatl.nz\">vicki@vatl.nz</a> </p>\n<p> </p>",
             "author": {
                 "name": "Chris Hoffmann"
             },
             "tags": [
             ],
             "date_published": "2021-02-20T15:07:00+13:00",
-            "date_modified": "2022-03-24T13:47:23+13:00"
+            "date_modified": "2022-03-25T13:43:42+13:00"
         }
     ]
 }
