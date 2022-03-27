@@ -13,15 +13,15 @@
             "id": "https://dulcie.hoffmann.co.nz/live-stream.html",
             "url": "https://dulcie.hoffmann.co.nz/live-stream.html",
             "title": "Live Stream",
-            "summary": "The service is being live streamed on YouTube. A recording of the event will be made available on this page a few days after the service. UPDATE 11:59am NEW LINK CLICK HERE FOR NEW LINK TO YOU TUBE Click here to watch the live stream&hellip;",
-            "content_html": "<p>The service is being live streamed on YouTube. A recording of the event will be made available on this page a few days after the service. </p>\n<p>UPDATE 11:59am  NEW LINK</p>\n<p> </p>\n<p><a href=\"https://youtu.be/H-_2DUuibwE\" target=\"_blank\" rel=\"noopener noreferrer\">CLICK HERE FOR NEW LINK TO YOU TUBE</a></p>\n<p> </p>\n<p><a href=\"https://youtu.be/yFw-fWAvFhY\" target=\"_blank\" rel=\"noopener noreferrer\">Click here to watch the live stream on YouTube</a></p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/Dulcie Hoffmann.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Click here to download the Order of Service PDF</a></p>\n<p> </p>",
+            "summary": "The service was live streamed on YouTube. A recording of the event will be made available on this page a few days. Service Recording - Not yet available Click here to download the Order of Service PDF",
+            "content_html": "<p>The service was live streamed on YouTube. A recording of the event will be made available on this page a few days. </p>\n<p> </p>\n<p>Service Recording - Not yet available</p>\n<p> </p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/Dulcie Hoffmann.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Click here to download the Order of Service PDF</a></p>\n<p> </p>",
             "author": {
                 "name": "Chris Hoffmann"
             },
             "tags": [
             ],
             "date_published": "2022-03-26T12:00:00+13:00",
-            "date_modified": "2022-03-26T12:00:18+13:00"
+            "date_modified": "2022-03-27T17:26:52+13:00"
         },
         {
             "id": "https://dulcie.hoffmann.co.nz/photos.html",
@@ -56,15 +56,15 @@
             "id": "https://dulcie.hoffmann.co.nz/main-page.html",
             "url": "https://dulcie.hoffmann.co.nz/main-page.html",
             "title": "Dulcie",
-            "summary": "In loving memory of Dulcie Norma Hoffmann 7th January 1941 - 9th September 2021 Click here to watch the live stream Click here for memorial service details Click here for photos To make contact the family please email vicki@vatl.nz",
-            "content_html": "<h3>In loving memory of Dulcie Norma Hoffmann</h3>\n<p><em>7th January 1941 - 9th September 2021</em></p>\n<p> </p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/live-stream.html\">Click here to watch the live stream</a></p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/memorial-service.html\">Click here for memorial service details</a></p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/photos.html\">Click here for photos</a></p>\n<p> </p>\n<p>To make contact the family please email <a href=\"mailto:vicki@vatl.nz\">vicki@vatl.nz</a> </p>\n<p> </p>",
+            "summary": "In loving memory of Dulcie Norma Hoffmann 7th January 1941 - 9th September 2021 Click here for the recording of service Click here for memorial service details Click here for photos To make contact the family please email vicki@vatl.nz",
+            "content_html": "<h3>In loving memory of Dulcie Norma Hoffmann</h3>\n<p><em>7th January 1941 - 9th September 2021</em></p>\n<p> </p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/live-stream.html\">Click here for the recording of service</a></p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/memorial-service.html\">Click here for memorial service details</a></p>\n<p><a href=\"https://dulcie.hoffmann.co.nz/photos.html\">Click here for photos</a></p>\n<p> </p>\n<p>To make contact the family please email <a href=\"mailto:vicki@vatl.nz\">vicki@vatl.nz</a> </p>\n<p> </p>",
             "author": {
                 "name": "Chris Hoffmann"
             },
             "tags": [
             ],
             "date_published": "2021-02-20T15:07:00+13:00",
-            "date_modified": "2022-03-27T17:24:31+13:00"
+            "date_modified": "2022-03-27T17:27:55+13:00"
         }
     ]
 }
